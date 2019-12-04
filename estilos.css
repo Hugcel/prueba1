@@ -1,0 +1,42 @@
+
+.test{
+    height: 340px;
+    width: 800px;
+    border: 3px solid red;
+    margin: auto;
+
+}
+div{border: 10px solid #3EC483;
+    
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+
+      
+}
+
+
+
+.caja{
+    border: 3px solid   blueviolet;
+    
+    width: 798px;
+    height: 160px;
+    
+
+
+}
+.caja1{
+    border: 3px solid green;
+    float: right;
+    width: 640px;
+    
+    
+}
+.caja2{
+    border: 3px solid rgb(45, 45, 209);
+    
+}
+  
+  
